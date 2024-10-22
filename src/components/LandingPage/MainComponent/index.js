@@ -47,8 +47,8 @@ function MainComponent() {
           </a>
           <RWebShare
             data={{
-              text: "CryptoDashboard made by Avi Vashishta using React JS.",
-              url: "https://crypto-dashboard-jan.netlify.app",
+              text: "CryptoDashboard made by Sai Keshav using React JS.",
+              url: "https://cryptodashboardtracker.netlify.app/",
               title: "CryptoTracker.",
             }}
             onClick={() => toast.info("App Shared!")}

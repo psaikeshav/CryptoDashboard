@@ -1,5 +1,7 @@
 # Crypto Tracker
 [![Netlify Status](https://api.netlify.com/api/v1/badges/5c49f2f1-8a4f-4ef4-b730-59f56d0905f7/deploy-status)](https://app.netlify.com/sites/cryptodashboardtracker/deploys)
+<img width="1000" alt="1" src="https://github.com/user-attachments/assets/3a046ed1-af6c-4d01-a662-0f91b2b96c3b">
+
 ## Overview
 
 Crypto Tracker is designed to help users track the latest cryptocurrency prices, compare different cryptocurrencies, and manage a personalized watchlist. The application is built using React and leverages various libraries such as Material-UI, Chart.js, and Axios to provide a seamless and interactive user experience.
